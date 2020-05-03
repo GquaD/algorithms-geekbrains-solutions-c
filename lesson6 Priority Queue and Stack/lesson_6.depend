@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587289170 source:c:\users\behzod\desktop\c lessons\homework 4\lesson_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587289146 source:c:\users\behzod\desktop\c lessons\homework 4\lesson_6\andrey.c
+	<locale.h>
+	<stdio.h>
+
