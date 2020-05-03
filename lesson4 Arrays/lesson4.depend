@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586777958 source:c:\users\behzod\desktop\c lessons\homework 4\lesson4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
